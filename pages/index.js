@@ -10,11 +10,14 @@ export default function Home() {
 
       <main>
         <h1 className="title">
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
+          Welcome to Kai's <a href="https://nextjs.org">Next.js!</a>
         </h1>
 
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          <a href="https://nextjs.org/learn/basics/navigate-between-pages" className="card" target="_blank">
+            Continue learning &rarr;
+          </a>
+          by editing <code>pages/index.js</code>, etc.
         </p>
 
         <div className="grid">
